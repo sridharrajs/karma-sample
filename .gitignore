@@ -1,0 +1,5 @@
+# IDE meta
+.idea
+
+# dependencies
+node_modules

@@ -1,0 +1,22 @@
+{
+  "name": "karma-sample",
+  "version": "1.0.0",
+  "description": "Learn karma",
+  "main": "karma.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "karma"
+  ],
+  "author": "sridharrajs",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^6.2.0",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1"
+  }
+}
